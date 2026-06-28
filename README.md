@@ -47,14 +47,14 @@ I'm **Will** — I build AI automation and websites for small businesses, and I 
 [![ResearchOS](https://github-readme-stats.vercel.app/api/pin/?username=BusinessBuilders&repo=research-os&theme=tokyonight&hide_border=true)](https://github.com/BusinessBuilders/research-os)
 [![AutoInvoice](https://github-readme-stats.vercel.app/api/pin/?username=BusinessBuilders&repo=AutoInvoice&theme=tokyonight&hide_border=true)](https://github.com/BusinessBuilders/AutoInvoice)
 [![eve.center](https://github-readme-stats.vercel.app/api/pin/?username=BusinessBuilders&repo=eve-for-hire&theme=tokyonight&hide_border=true)](https://github.com/BusinessBuilders/eve-for-hire)
-[![daily-compiler](https://github-readme-stats.vercel.app/api/pin/?username=BusinessBuilders&repo=obsidian-daily-compiler&theme=tokyonight&hide_border=true)](https://github.com/BusinessBuilders/obsidian-daily-compiler)
+[![Nova-Rig](https://github-readme-stats.vercel.app/api/pin/?username=BusinessBuilders&repo=nova-rig&theme=tokyonight&hide_border=true)](https://github.com/BusinessBuilders/nova-rig)
 
 </div>
 
 - 🔭 **[ResearchOS](https://github.com/BusinessBuilders/research-os)** — Ask _"best printer under $2k for production parts"_; it runs a real research pipeline and writes a scored decision. FastAPI + Vane + local Qwen.
 - 📊 **[AutoInvoice](https://github.com/BusinessBuilders/AutoInvoice)** — Describe a job by voice or text, get an invoice. Multi-company transaction tracking with an MCP tool layer.
 - 🤖 **[eve.center](https://eve.center)** — Autonomous AI sales agent: chats, qualifies, finds a domain, takes payment via Stripe, deploys a site. Zero humans. ([source](https://github.com/BusinessBuilders/eve-for-hire))
-- 🌙 **[obsidian-daily-compiler](https://github.com/BusinessBuilders/obsidian-daily-compiler)** — A local-LLM pipeline that turns your day (voice, chats, clippings) into a linked Obsidian knowledge graph. 52 tests, open source.
+- 🚀 **[Nova-Rig](https://github.com/BusinessBuilders/nova-rig)** — My 8× RTX 3090 local inference rig: vLLM + ik_llama.cpp serving 200B-class models, plus self-hosted search, scraping, and voice. The backbone every other project runs on — zero per-token cost.
 
 ## 🖥 The Rig
 
